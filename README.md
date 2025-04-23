@@ -45,11 +45,11 @@ logged to a MySQL database, with sensitive fields encrypted via OpenSSL.
 - MySQL SErver + Connector/C++
 - OpenSSL (for encryption)
 
-### Winwdows
+### Windows
 - Windows 10 or later (64-bit)
 - Registry APIs via QSettings::NativeFormat
 
-###macOS
+### macOS
 - macOS 11.0 or later
 - `.plist` montioring via `QFileSystemWatcher` & `QSettings::NativeFormat`
 
