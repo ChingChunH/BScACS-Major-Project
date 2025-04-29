@@ -1,7 +1,4 @@
-# BScACS-Major-Project
-Dual-Platform System Configuration Monitor
-
-### COMP 8800 & 8900 Major Project
+# Dual-Platform System Configuration Monitor
 
 A cross-platform tool that continuously watches Windows registry keys and macOS `.plist` files
 for changes, rolls back unauthorized critical modifications, and issues configurable alerts 
